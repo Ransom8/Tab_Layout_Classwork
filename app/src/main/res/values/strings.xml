@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tab Layout Class Work</string>
+    <string name="Tab1">Tab 1</string>
+    <string name="Tab2">Tab 2</string>
+    <string name="Tab3">Tab 3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Blank fragment</string>
+</resources>
